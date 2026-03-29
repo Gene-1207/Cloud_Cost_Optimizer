@@ -21,10 +21,4 @@ Try the Cloud Cost Optimizer chatbot here:
 
 ---
 
-## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Gene-1207/Cloud_Cost_Optimizer.git
-cd Cloud_Cost_Optimizer
